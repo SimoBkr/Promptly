@@ -54,15 +54,15 @@ export default function CategoryPage() {
   }
 
   return (
-    <div className="py-12">
-      <h1 className="text-4xl font-bold text-center mb-4">{category.name}</h1>
+    <div className="py-8">
+      <h1 className="text-4xl font-bold text-center mb-4 text-text-rgb">{category.name}</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {category.prompts.map((prompt) => (
-          <div key={prompt.id} className="bg-white rounded-lg shadow-md p-6 flex flex-col">
-            <h2 className="text-2xl font-bold mb-2">{prompt.title}</h2>
+          <div key={prompt.id} className="card p-6 flex flex-col">
+            <h2 className="text-2xl font-bold mb-2 text-text-rgb">{prompt.title}</h2>
             <p className="text-gray-700 mb-4 flex-grow">{prompt.prompt}</p>
             <button
-              className={`w-full px-4 py-2 rounded-lg transition-colors ${copiedPromptId === prompt.id ? 'bg-green-500' : 'bg-blue-500 hover:bg-blue-600'} text-white`}
+              className={`w-full px-4 py-2 rounded-lg transition-colors ${copiedPromptId === prompt.id ? 'bg-accent-rgb' : 'bg-cyan-500 hover:bg-cyan-600'} text-white`}
               onClick={() => handleCopy(prompt.prompt, prompt.id)}
             >
               {copiedPromptId === prompt.id ? 'Copied!' : 'Copy Prompt'}

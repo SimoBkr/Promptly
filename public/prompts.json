@@ -467,7 +467,1161 @@
       "prompt": "Act as a project management software developer. Build a web-based tool to facilitate project planning, tracking, and collaboration."
     }
   ]
+},{
+  "id": "coding-programmers",
+  "name": "Coding (Programmers)",
+  "prompts": [
+    {
+      "id": "algorithm-design",
+      "title": "Algorithm Design",
+      "prompt": "Act as a computer scientist. Develop an efficient algorithm to solve the [specific problem, e.g., sorting, searching] problem."
+    },
+    {
+      "id": "debugging-challenge",
+      "title": "Debugging Challenge",
+      "prompt": "Act as a software debugger. Identify and fix bugs in a given piece of code that is intended to [perform a specific function]."
+    },
+    {
+      "id": "ui-ux-development",
+      "title": "UI/UX Development",
+      "prompt": "Act as a front-end developer. Design a user-friendly interface for a [specific application, e.g., e-commerce website, mobile app]."
+    },
+    {
+      "id": "database-management",
+      "title": "Database Management",
+      "prompt": "Act as a database administrator. Optimize a database schema for a [specific application scenario, e.g., large-scale e-commerce site]."
+    },
+    {
+      "id": "machine-learning-project",
+      "title": "Machine Learning Project",
+      "prompt": "Act as a machine learning engineer. Create a model to predict [specific outcome] using [specific dataset]."
+    },
+    {
+      "id": "api-integration",
+      "title": "API Integration",
+      "prompt": "Act as a back-end developer. Integrate an external API to enhance the functionality of a [specific project or application]."
+    },
+    {
+      "id": "security-testing",
+      "title": "Security Testing",
+      "prompt": "Act as a cybersecurity expert. Conduct a security audit for a [specific type of application] and recommend improvements."
+    },
+    {
+      "id": "game-development",
+      "title": "Game Development",
+      "prompt": "Act as a game developer. Design and code a simple game that demonstrates [specific game mechanics]."
+    },
+    {
+      "id": "mobile-app-development",
+      "title": "Mobile App Development",
+      "prompt": "Act as a mobile app developer. Create a cross-platform mobile app for [specific purpose or functionality]."
+    },
+    {
+      "id": "automation-scripting",
+      "title": "Automation Scripting",
+      "prompt": "Act as an automation engineer. Write a script to automate [specific repetitive task] in a workplace environment."
+    },
+    {
+      "id": "cloud-computing",
+      "title": "Cloud Computing",
+      "prompt": "Act as a cloud architect. Design a cloud solution for hosting a [specific type of application] with scalability in mind."
+    },
+    {
+      "id": "code-refactoring",
+      "title": "Code Refactoring",
+      "prompt": "Act as a software architect. Refactor a piece of legacy code to improve its [performance, maintainability, readability]."
+    },
+    {
+      "id": "data-visualization",
+      "title": "Data Visualization",
+      "prompt": "Act as a data analyst. Create a visualization of [specific dataset] to uncover insights or trends."
+    },
+    {
+      "id": "networking-challenge",
+      "title": "Networking Challenge",
+      "prompt": "Act as a network engineer. Set up a secure and efficient network for a [small business/organization]."
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development",
+      "prompt": "Act as a web developer. Build a responsive website for [specific purpose, e.g., portfolio, online store]."
+    },
+    {
+      "id": "iot-project",
+      "title": "IoT Project",
+      "prompt": "Act as an IoT developer. Develop an IoT application that solves a problem in [specific domain, e.g., home automation]."
+    },
+    {
+      "id": "blockchain-experiment",
+      "title": "Blockchain Experiment",
+      "prompt": "Act as a blockchain enthusiast. Create a simple blockchain-based application for [a specific use case]."
+    },
+    {
+      "id": "performance-optimization",
+      "title": "Performance Optimization",
+      "prompt": "Act as a performance engineer. Optimize the performance of a [specific application or system]."
+    },
+    {
+      "id": "ai-challenge",
+      "title": "Artificial Intelligence Challenge",
+      "prompt": "Act as an AI researcher. Implement an AI solution for [a specific complex problem]."
+    },
+    {
+      "id": "code-review-practice",
+      "title": "Code Review Practice",
+      "prompt": "Act as a senior software engineer. Conduct a code review for a project and provide constructive feedback."
+    }
+  ]
+},{
+  "id": "cold-dm",
+  "name": "Cold DM",
+  "prompts": [
+    {
+      "id": "networking-industry-experts",
+      "title": "Networking with Industry Experts",
+      "prompt": "Act as a budding professional seeking guidance. Reach out to an industry expert expressing admiration for their work and seeking advice on [specific topic]."
+    },
+    {
+      "id": "pitching-product",
+      "title": "Pitching a Product to Potential Clients",
+      "prompt": "Act as a sales representative. Introduce a [specific product/service] to a potential client, highlighting its unique benefits and relevance to their business."
+    },
+    {
+      "id": "seeking-mentorship",
+      "title": "Seeking Mentorship",
+      "prompt": "Act as an aspiring professional. Contact a potential mentor to request guidance and mentorship in [specific field or skill]."
+    },
+    {
+      "id": "collaboration-opportunity",
+      "title": "Collaboration Opportunity",
+      "prompt": "Act as a project manager. Propose a collaboration opportunity to a professional or company in a complementary field, detailing the mutual benefits."
+    },
+    {
+      "id": "job-inquiry",
+      "title": "Job Inquiry",
+      "prompt": "Act as a job seeker. Inquire about potential job opportunities at a company you admire, expressing your interest and relevant skills."
+    },
+    {
+      "id": "business-partnership",
+      "title": "Business Partnership",
+      "prompt": "Act as a business owner. Propose a strategic partnership with another business that could be mutually beneficial."
+    },
+    {
+      "id": "event-invitation",
+      "title": "Event Invitation",
+      "prompt": "Act as an event organizer. Invite a professional or influencer to participate or speak at an upcoming event relevant to their expertise."
+    },
+    {
+      "id": "requesting-feedback",
+      "title": "Requesting Feedback or Testimonial",
+      "prompt": "Act as a product developer. Politely request feedback or a testimonial from a user or expert for a product or service you've developed."
+    },
+    {
+      "id": "offering-services",
+      "title": "Offering Services",
+      "prompt": "Act as a freelancer. Offer your services in [specific skill or area] to a business or individual who might benefit from them."
+    },
+    {
+      "id": "content-collaboration",
+      "title": "Content Collaboration",
+      "prompt": "Act as a content creator. Suggest a content collaboration idea to a fellow creator that could appeal to both audiences."
+    },
+    {
+      "id": "seeking-sponsorship",
+      "title": "Seeking Sponsorship",
+      "prompt": "Act as an organizer of a cause or event. Reach out to a potential sponsor explaining the cause/event and the sponsorship opportunities."
+    },
+    {
+      "id": "guest-blogging-request",
+      "title": "Guest Blogging Request",
+      "prompt": "Act as a blogger. Propose to write a guest post for a blog, suggesting topics that would interest their audience."
+    },
+    {
+      "id": "podcast-guest-invitation",
+      "title": "Podcast Guest Invitation",
+      "prompt": "Act as a podcast host. Invite a professional or expert to be a guest on your podcast, explaining why they would be a great fit."
+    },
+    {
+      "id": "research-collaboration",
+      "title": "Research Collaboration",
+      "prompt": "Act as a researcher. Reach out for a potential research collaboration in a field of mutual interest."
+    },
+    {
+      "id": "vendor-opportunities",
+      "title": "Exploring Vendor Opportunities",
+      "prompt": "Act as a procurement manager. Contact a potential vendor to explore products or services they offer that could benefit your company."
+    },
+    {
+      "id": "join-professional-group",
+      "title": "Joining a Professional Group or Board",
+      "prompt": "Act as an enthusiast in [field]. Express interest in joining a professional group or board and ask about the process."
+    },
+    {
+      "id": "seeking-product-endorsement",
+      "title": "Seeking Endorsements for a Product",
+      "prompt": "Act as a marketing manager. Approach an influencer or expert to seek an endorsement for your product."
+    },
+    {
+      "id": "volunteer-work-offer",
+      "title": "Volunteer Work Offer",
+      "prompt": "Act as a community service volunteer. Offer your time and skills to a non-profit organization for an upcoming event or project."
+    },
+    {
+      "id": "request-expert-opinion",
+      "title": "Requesting Expert Opinion",
+      "prompt": "Act as a researcher or student. Reach out to an expert in [specific field] to request their opinion or insights on a topic you are studying or researching."
+    },
+    {
+      "id": "networking-follow-up",
+      "title": "Networking Event Follow-Up",
+      "prompt": "Act as a professional who recently attended a networking event. Send a follow-up message to someone you met, expressing interest in continuing the conversation about [specific topic or opportunity]."
+    }
+  ]
+},{
+  "id": "content-ideas",
+  "name": "Content Ideas",
+  "prompts": [
+    {
+      "id": "blog-post-ideas",
+      "title": "Blog Post Ideas",
+      "prompt": "Act as a content strategist. Generate a list of engaging blog post ideas for a website focused on [specific niche or industry]."
+    },
+    {
+      "id": "social-media-campaigns",
+      "title": "Social Media Campaigns",
+      "prompt": "Act as a social media manager. Develop creative campaign ideas for promoting [a product/service/event] on social media platforms."
+    },
+    {
+      "id": "podcast-episode-themes",
+      "title": "Podcast Episode Themes",
+      "prompt": "Act as a podcast host. Outline compelling episode themes for a podcast about [specific topic or industry]."
+    },
+    {
+      "id": "youtube-video-concepts",
+      "title": "YouTube Video Concepts",
+      "prompt": "Act as a YouTuber. Brainstorm unique and engaging video concepts for a YouTube channel that focuses on [specific theme or niche]."
+    },
+    {
+      "id": "email-newsletter-content",
+      "title": "Email Newsletter Content",
+      "prompt": "Act as an email marketing specialist. Create content ideas for an email newsletter targeting [specific audience]."
+    },
+    {
+      "id": "infographic-topics",
+      "title": "Infographic Topics",
+      "prompt": "Act as a graphic designer. Propose topics for informative infographics that would appeal to [target audience or industry]."
+    },
+    {
+      "id": "webinar-subjects",
+      "title": "Webinar Subjects",
+      "prompt": "Act as an educational coordinator. Suggest insightful webinar subjects for professionals in [specific field or industry]."
+    },
+    {
+      "id": "ebook-themes",
+      "title": "E-book Themes",
+      "prompt": "Act as an author. Develop thematic concepts for an e-book aimed at [specific audience or addressing a specific problem]."
+    },
+    {
+      "id": "instructional-video-ideas",
+      "title": "Instructional Video Ideas",
+      "prompt": "Act as an educator. Propose ideas for instructional videos that teach [specific skills or topics]."
+    },
+    {
+      "id": "photography-project-themes",
+      "title": "Photography Project Themes",
+      "prompt": "Act as a photographer. Plan thematic ideas for a photography project that tells a story about [specific subject or theme]."
+    },
+    {
+      "id": "interactive-content-concepts",
+      "title": "Interactive Content Concepts",
+      "prompt": "Act as a web developer. Design ideas for interactive website content that engages visitors in [specific topic or activity]."
+    },
+    {
+      "id": "case-study-topics",
+      "title": "Case Study Topics",
+      "prompt": "Act as a business analyst. Identify compelling case study topics that highlight successful strategies in [specific industry]."
+    },
+    {
+      "id": "documentary-film-subjects",
+      "title": "Documentary Film Subjects",
+      "prompt": "Act as a documentary filmmaker. Explore potential subjects for a documentary that sheds light on [specific issue or story]."
+    },
+    {
+      "id": "magazine-article-ideas",
+      "title": "Magazine Article Ideas",
+      "prompt": "Act as a magazine editor. Curate a list of article ideas for a magazine catering to [specific audience or interest]."
+    },
+    {
+      "id": "mobile-app-content",
+      "title": "Mobile App Content",
+      "prompt": "Act as an app developer. Propose content features for a mobile app designed for [specific purpose or audience]."
+    },
+    {
+      "id": "vr-experience-concepts",
+      "title": "VR Experience Concepts",
+      "prompt": "Act as a VR content creator. Imagine virtual reality experience ideas that immerse users in [specific environments or stories]."
+    },
+    {
+      "id": "tutorial-guide-topics",
+      "title": "Tutorial Guide Topics",
+      "prompt": "Act as an expert in [specific field]. Suggest detailed tutorial guides for beginners in your field."
+    },
+    {
+      "id": "interview-series-themes",
+      "title": "Interview Series Themes",
+      "prompt": "Act as a journalist. Plan a series of interview themes focusing on [specific group of people, e.g., entrepreneurs, artists]."
+    },
+    {
+      "id": "online-course-curriculum",
+      "title": "Online Course Curriculum",
+      "prompt": "Act as an educational content creator. Develop an online course curriculum for teaching [specific skill or subject]."
+    },
+    {
+      "id": "short-story-ideas",
+      "title": "Short Story Ideas",
+      "prompt": "Act as a fiction writer. Generate a series of short story ideas set in [a specific genre or universe]."
+    }
+  ]
+},{
+  "id": "copywriting-frameworks",
+  "name": "Copywriting Frameworks",
+  "prompts": [
+    {
+      "id": "aida-model",
+      "title": "AIDA Model",
+      "prompt": "Act as a copywriter. Write an advertisement using the AIDA (Attention, Interest, Desire, Action) model for [specific product/service]."
+    },
+    {
+      "id": "pas-framework",
+      "title": "PAS Framework",
+      "prompt": "Act as a marketing expert. Craft a product description using the PAS (Problem, Agitate, Solution) framework, focusing on [specific problem your product solves]."
+    },
+    {
+      "id": "feature-to-benefit",
+      "title": "Feature to Benefit",
+      "prompt": "Act as a sales copywriter. Transform the features of [specific product] into benefits that resonate with the target audience."
+    },
+    {
+      "id": "unique-value-proposition",
+      "title": "Unique Value Proposition",
+      "prompt": "Act as a brand strategist. Develop a unique value proposition for [specific brand] that sets it apart from competitors."
+    },
+    {
+      "id": "storytelling-in-copywriting",
+      "title": "Storytelling in Copywriting",
+      "prompt": "Act as a creative writer. Incorporate storytelling into an advertisement for [specific product/service], aiming to connect emotionally with the audience."
+    },
+    {
+      "id": "seo-copywriting",
+      "title": "SEO Copywriting",
+      "prompt": "Act as an SEO specialist. Write a blog post optimized for search engines on [specific topic], incorporating key search terms."
+    },
+    {
+      "id": "direct-response-copywriting",
+      "title": "Direct Response Copywriting",
+      "prompt": "Act as a direct response copywriter. Create a persuasive email campaign designed to prompt immediate action for [specific offer or product]."
+    },
+    {
+      "id": "fab-statement",
+      "title": "FAB Statement",
+      "prompt": "Act as a product marketer. Write a copy focusing on Features, Advantages, and Benefits (FAB) of [specific product]."
+    },
+    {
+      "id": "brand-storytelling",
+      "title": "Brand Storytelling",
+      "prompt": "Act as a brand storyteller. Craft a narrative that encapsulates the history, mission, and values of [specific brand]."
+    },
+    {
+      "id": "testimonial-based-copy",
+      "title": "Testimonial-Based Copy",
+      "prompt": "Act as a copywriter. Create a product page using real testimonials to highlight the effectiveness of [specific product/service]."
+    },
+    {
+      "id": "before-after-bridge",
+      "title": "Before-After-Bridge (BAB) Formula",
+      "prompt": "Act as a content creator. Write a social media post using the Before-After-Bridge formula for [specific product/service transformation]."
+    },
+    {
+      "id": "cta-crafting",
+      "title": "Call to Action (CTA) Crafting",
+      "prompt": "Act as a digital marketer. Develop compelling calls to action for a website promoting [specific action, e.g., sign-up, purchase]."
+    },
+    {
+      "id": "problem-solution-benefit",
+      "title": "Problem-Solution-Benefit",
+      "prompt": "Act as a copywriter. Create an advertisement addressing a problem, presenting a solution, and highlighting the benefit for [specific audience]."
+    },
+    {
+      "id": "usp-identification",
+      "title": "USP Identification",
+      "prompt": "Act as a marketing analyst. Identify and articulate the Unique Selling Proposition (USP) for [new product/service]."
+    },
+    {
+      "id": "emotional-copywriting",
+      "title": "Emotional Copywriting",
+      "prompt": "Act as an empathetic copywriter. Write a piece of copy that taps into the emotions of the target audience for [specific cause or product]."
+    },
+    {
+      "id": "contextual-copywriting",
+      "title": "Contextual Copywriting",
+      "prompt": "Act as a context-aware copywriter. Develop copy that aligns with the current [seasonal event/trend] for [specific product/service]."
+    },
+    {
+      "id": "headline-creation",
+      "title": "Headline Creation",
+      "prompt": "Act as a headline specialist. Craft engaging and click-worthy headlines for a series of articles about [specific topic]."
+    },
+    {
+      "id": "subhead-bullet-writing",
+      "title": "Subhead and Bullet Point Writing",
+      "prompt": "Act as a detail-oriented copywriter. Write captivating subheads and bullet points for a product landing page."
+    },
+    {
+      "id": "email-subject-line-crafting",
+      "title": "Email Subject Line Crafting",
+      "prompt": "Act as an email marketing expert. Create compelling email subject lines for a campaign targeting [specific audience]."
+    },
+    {
+      "id": "risk-reversal-copywriting",
+      "title": "Risk Reversal in Copywriting",
+      "prompt": "Act as a persuasive copywriter. Integrate risk reversal elements like money-back guarantees into the copy for [specific high-value product]."
+    }
+  ]
+},{
+  "id": "content-creation-frameworks",
+  "name": "Content Creation Frameworks",
+  "prompts": [
+    {
+      "id": "storytelling-framework",
+      "title": "Storytelling Framework",
+      "prompt": "Act as a storyteller. Develop a compelling narrative for a brand video that encompasses a problem, journey, and resolution."
+    },
+    {
+      "id": "educational-content-outline",
+      "title": "Educational Content Outline",
+      "prompt": "Act as an educator. Create an outline for an educational article that simplifies a complex topic in [specific field]."
+    },
+    {
+      "id": "seo-friendly-blog-post",
+      "title": "SEO-Friendly Blog Post",
+      "prompt": "Act as an SEO specialist. Write a blog post plan focusing on a high-search-volume keyword, ensuring readability and value."
+    },
+    {
+      "id": "social-media-campaign-strategy",
+      "title": "Social Media Campaign Strategy",
+      "prompt": "Act as a social media manager. Devise a campaign for [specific event/launch] that includes a series of interconnected posts across platforms."
+    },
+    {
+      "id": "email-marketing-series",
+      "title": "Email Marketing Series",
+      "prompt": "Act as an email marketer. Plan a series of emails for a product launch, focusing on customer engagement and call-to-action."
+    },
+    {
+      "id": "webinar-planning",
+      "title": "Webinar Planning",
+      "prompt": "Act as a webinar host. Outline a webinar on [specific topic], including key talking points, guest interactions, and Q&A sessions."
+    },
+    {
+      "id": "podcast-episode-structure",
+      "title": "Podcast Episode Structure",
+      "prompt": "Act as a podcast producer. Design the structure of a podcast episode, including the intro, main content, guest interview, and outro."
+    },
+    {
+      "id": "infographic-design",
+      "title": "Infographic Design",
+      "prompt": "Act as a graphic designer. Plan an infographic that visually represents data or information about [specific topic]."
+    },
+    {
+      "id": "video-tutorial-script",
+      "title": "Video Tutorial Script",
+      "prompt": "Act as a content creator. Write a script for a how-to video tutorial on [specific skill or process]."
+    },
+    {
+      "id": "interactive-content-idea",
+      "title": "Interactive Content Idea",
+      "prompt": "Act as a digital creator. Develop an idea for interactive content, such as a quiz or poll, about [specific topic]."
+    },
+    {
+      "id": "case-study-framework",
+      "title": "Case Study Framework",
+      "prompt": "Act as a business analyst. Outline a case study showcasing the success of a product/service in a real-world scenario."
+    },
+    {
+      "id": "user-generated-content-campaign",
+      "title": "User-Generated Content Campaign",
+      "prompt": "Act as a community manager. Create a plan to encourage and leverage user-generated content for [specific brand or event]."
+    },
+    {
+      "id": "content-series-for-youtube",
+      "title": "Content Series for YouTube",
+      "prompt": "Act as a YouTuber. Develop a concept for a series of YouTube videos on [specific theme or subject]."
+    },
+    {
+      "id": "ebook-content-structure",
+      "title": "E-book Content Structure",
+      "prompt": "Act as an author. Plan the content structure for an e-book on [specific topic], including chapters and key themes."
+    },
+    {
+      "id": "product-review-article",
+      "title": "Product Review Article",
+      "prompt": "Act as a reviewer. Outline an in-depth product review article, highlighting features, benefits, and personal experience."
+    },
+    {
+      "id": "thought-leadership-article",
+      "title": "Thought Leadership Article",
+      "prompt": "Act as an industry expert. Plan an article that positions you as a thought leader on [specific trending topic]."
+    },
+    {
+      "id": "brand-storytelling-social",
+      "title": "Brand Storytelling on Social Media",
+      "prompt": "Act as a brand strategist. Create a storyline for social media that tells the brand's story over a series of posts."
+    },
+    {
+      "id": "instructional-guide-layout",
+      "title": "Instructional Guide Layout",
+      "prompt": "Act as an instructional designer. Design a step-by-step guide on [specific process or task], ensuring clarity and ease of understanding."
+    },
+    {
+      "id": "content-repurposing-plan",
+      "title": "Content Repurposing Plan",
+      "prompt": "Act as a content strategist. Devise a plan to repurpose a popular blog post into other formats (video, podcast, infographic)."
+    },
+    {
+      "id": "documentary-script-outline",
+      "title": "Documentary Script Outline",
+      "prompt": "Act as a documentary filmmaker. Outline a script for a documentary covering [specific subject or issue], detailing key points and narrative flow."
+    }
+  ]
+},{
+  "id": "cover-letter",
+  "name": "Cover Letter",
+  "prompts": [
+    {
+      "id": "career-change",
+      "title": "Career Change",
+      "prompt": "Act as a professional transitioning to a new industry. Highlight transferable skills and passion for the new field in your cover letter for [Job Title]."
+    },
+    {
+      "id": "recent-graduate",
+      "title": "Recent Graduate",
+      "prompt": "Act as a recent graduate. Showcase your academic achievements and relevant projects or internships in your application for [Entry-Level Position]."
+    },
+    {
+      "id": "senior-level-position",
+      "title": "Senior-Level Position",
+      "prompt": "Act as an experienced executive. Emphasize leadership experiences and significant achievements in your cover letter for [Senior Position]."
+    },
+    {
+      "id": "creative-industry-job",
+      "title": "Creative Industry Job",
+      "prompt": "Act as a creative professional. Reflect your creativity and originality in the cover letter for a role in [specific creative industry]."
+    },
+    {
+      "id": "tech-industry-position",
+      "title": "Tech Industry Position",
+      "prompt": "Act as a tech professional. Discuss your technical skills and innovative projects in your application for [Tech Role]."
+    },
+    {
+      "id": "customer-service-role",
+      "title": "Customer Service Role",
+      "prompt": "Act as a customer service expert. Highlight your communication skills and customer satisfaction successes in the cover letter for [Customer Service Position]."
+    },
+    {
+      "id": "sales-position",
+      "title": "Sales Position",
+      "prompt": "Act as a sales professional. Showcase your sales achievements and relationship-building skills in your application for [Sales Role]."
+    },
+    {
+      "id": "healthcare-job",
+      "title": "Healthcare Job",
+      "prompt": "Act as a healthcare professional. Emphasize your patient care experiences and relevant medical skills in the cover letter for [Healthcare Position]."
+    },
+    {
+      "id": "academic-position",
+      "title": "Academic Position",
+      "prompt": "Act as an academic. Detail your teaching experience, research interests, and publications in your cover letter for [Academic Role]."
+    },
+    {
+      "id": "non-profit-sector-job",
+      "title": "Non-Profit Sector Job",
+      "prompt": "Act as a non-profit enthusiast. Express your commitment to the cause and relevant experiences in your application for [Non-Profit Role]."
+    },
+    {
+      "id": "remote-work-position",
+      "title": "Remote Work Position",
+      "prompt": "Act as a candidate for remote work. Discuss your ability to work independently and efficiently in the cover letter for [Remote Job]."
+    },
+    {
+      "id": "internship-application",
+      "title": "Internship Application",
+      "prompt": "Act as a student seeking an internship. Highlight your academic background, enthusiasm for learning, and any relevant experiences in your application for [Internship]."
+    },
+    {
+      "id": "startup-company-role",
+      "title": "Startup Company Role",
+      "prompt": "Act as an adaptable and innovative professional. Illustrate your flexibility and entrepreneurial spirit in your cover letter for a role at [Startup Company]."
+    },
+    {
+      "id": "government-job",
+      "title": "Government Job",
+      "prompt": "Act as a public service aspirant. Focus on your dedication to public service and relevant experiences in your cover letter for [Government Position]."
+    },
+    {
+      "id": "relocating-candidate",
+      "title": "Relocating Candidate",
+      "prompt": "Act as a professional relocating to a new area. Explain your reasons for relocating and your interest in the position at [Company] in your cover letter."
+    },
+    {
+      "id": "return-to-workforce",
+      "title": "Return to Workforce",
+      "prompt": "Act as an individual returning to the workforce. Address your career gap with confidence and focus on your relevant skills for [Job Title]."
+    },
+    {
+      "id": "freelancer-seeking-fulltime",
+      "title": "Freelancer Seeking Full-Time",
+      "prompt": "Act as a freelancer transitioning to full-time employment. Leverage your freelance experience to show your skills and dedication in your application for [Full-Time Position]."
+    },
+    {
+      "id": "internal-role-change",
+      "title": "Changing Roles Within the Same Company",
+      "prompt": "Act as an internal candidate seeking a new role. Emphasize your familiarity with the company and your desire to grow in your cover letter for [Internal Position]."
+    },
+    {
+      "id": "marketing-professional",
+      "title": "Marketing Professional",
+      "prompt": "Act as a marketing expert. Articulate your experience in creating successful campaigns and understanding of market trends in your application for [Marketing Role]."
+    },
+    {
+      "id": "legal-position-application",
+      "title": "Legal Position Application",
+      "prompt": "Act as a legal professional. Present your legal expertise, attention to detail, and case management skills in your cover letter for [Legal Position]."
+    }
+  ]
+},{
+  "id": "customer-success-stories",
+  "name": "Customer Success Stories",
+  "prompts": [
+    {
+      "id": "tech-product-success",
+      "title": "Technology Product Success",
+      "prompt": "Act as a tech company. Describe a customer's journey from challenge to solution with your innovative software product."
+    },
+    {
+      "id": "healthcare-improvement-story",
+      "title": "Healthcare Improvement Story",
+      "prompt": "Act as a healthcare provider. Share a story where your services significantly improved a patient's health and quality of life."
+    },
+    {
+      "id": "educational-program-impact",
+      "title": "Educational Program Impact",
+      "prompt": "Act as an educational institution. Narrate a success story of a student or group who achieved remarkable results through your program."
+    },
+    {
+      "id": "small-business-growth",
+      "title": "Small Business Growth",
+      "prompt": "Act as a business consultant. Detail the success story of a small business that thrived with your guidance and strategies."
+    },
+    {
+      "id": "ecommerce-platform-success",
+      "title": "E-commerce Platform Success",
+      "prompt": "Act as an e-commerce platform. Tell the story of a vendor who significantly boosted sales and reach using your platform."
+    },
+    {
+      "id": "fitness-transformation",
+      "title": "Fitness Transformation",
+      "prompt": "Act as a fitness coach or gym. Share a client's transformative journey to health and fitness through your training program."
+    },
+    {
+      "id": "real-estate-client-satisfaction",
+      "title": "Real Estate Client Satisfaction",
+      "prompt": "Act as a real estate agency. Describe how you helped a client find their dream home, overcoming specific challenges."
+    },
+    {
+      "id": "restaurant-culinary-journey",
+      "title": "Restaurant's Culinary Journey",
+      "prompt": "Act as a restaurateur. Narrate the story of creating a signature dish that became a customer favorite and its impact."
+    },
+    {
+      "id": "non-profit-change",
+      "title": "Non-Profit Organization's Change",
+      "prompt": "Act as a non-profit leader. Tell a story of how your organization's efforts significantly impacted an individual or community."
+    },
+    {
+      "id": "saas-solution-efficiency",
+      "title": "SaaS Solution Efficiency",
+      "prompt": "Act as a SaaS provider. Describe how your software solution streamlined and improved a client's business processes."
+    },
+    {
+      "id": "automotive-repair-excellence",
+      "title": "Automotive Repair Excellence",
+      "prompt": "Act as a car service center. Share a customer's experience of exceptional service that solved a complex vehicle issue."
+    },
+    {
+      "id": "retail-customer-experience",
+      "title": "Retail Store Customer Experience",
+      "prompt": "Act as a retail store manager. Narrate a story where personalized service turned a shopper into a loyal customer."
+    },
+    {
+      "id": "tourism-success-story",
+      "title": "Tourism Success Story",
+      "prompt": "Act as a travel agency. Tell the story of a unique and unforgettable travel experience you crafted for a customer."
+    },
+    {
+      "id": "event-planning-triumph",
+      "title": "Event Planning Triumph",
+      "prompt": "Act as an event planner. Share a success story of pulling off a spectacular event under challenging circumstances."
+    },
+    {
+      "id": "digital-marketing-impact",
+      "title": "Digital Marketing Campaign Impact",
+      "prompt": "Act as a digital marketing agency. Describe how your innovative campaign greatly increased a client's online presence and sales."
+    },
+    {
+      "id": "legal-victory",
+      "title": "Legal Victory for a Client",
+      "prompt": "Act as a law firm. Share a story where your legal expertise won a significant case for a client."
+    },
+    {
+      "id": "environmental-project-success",
+      "title": "Environmental Project Success",
+      "prompt": "Act as an environmental consultancy. Narrate how your services helped a company achieve remarkable sustainability goals."
+    },
+    {
+      "id": "artistic-collaboration-outcome",
+      "title": "Artistic Collaboration Outcome",
+      "prompt": "Act as an art studio. Share the success story of an artist or collaborator who gained recognition and success through your platform."
+    },
+    {
+      "id": "financial-advisory-success",
+      "title": "Financial Advisory Success",
+      "prompt": "Act as a financial advisor. Describe how your advice and strategies led to a client's financial stability or growth."
+    },
+    {
+      "id": "software-customization-solution",
+      "title": "Software Customization Solution",
+      "prompt": "Act as a software developer. Tell the story of how customizing your software met a unique need for a client, enhancing their operations."
+    }
+  ]
+},{
+  "id": "data-science",
+  "name": "Data Science",
+  "prompts": [
+    {
+      "id": "predictive-modeling",
+      "title": "Predictive Modeling",
+      "prompt": "Act as a data scientist. Develop a predictive model to forecast [specific outcome] using [specified dataset]."
+    },
+    {
+      "id": "data-visualization",
+      "title": "Data Visualization",
+      "prompt": "Act as a data analyst. Create insightful visualizations to reveal hidden patterns in [specific dataset]."
+    },
+    {
+      "id": "ml-algorithm-evaluation",
+      "title": "Machine Learning Algorithm Evaluation",
+      "prompt": "Act as a machine learning engineer. Compare different algorithms to solve [specific problem] and evaluate their performance."
+    },
+    {
+      "id": "nlp-task",
+      "title": "Natural Language Processing (NLP) Task",
+      "prompt": "Act as an NLP specialist. Analyze [specified text data] to extract [specific insights or features]."
+    },
+    {
+      "id": "time-series-analysis",
+      "title": "Time Series Analysis",
+      "prompt": "Act as a statistician. Conduct a time series analysis on [specific dataset] to understand trends and make forecasts."
+    },
+    {
+      "id": "anomaly-detection",
+      "title": "Anomaly Detection",
+      "prompt": "Act as a data analyst. Identify and investigate anomalies in [specific dataset] to uncover potential issues or insights."
+    },
+    {
+      "id": "sentiment-analysis",
+      "title": "Sentiment Analysis of Social Media Data",
+      "prompt": "Act as a social media analyst. Perform sentiment analysis on [specific social media dataset] to gauge public opinion on [specific topic]."
+    },
+    {
+      "id": "market-basket-analysis",
+      "title": "Market Basket Analysis",
+      "prompt": "Act as a retail data analyst. Use market basket analysis to find product association rules in [specific transaction dataset]."
+    },
+    {
+      "id": "healthcare-data-analysis",
+      "title": "Healthcare Data Analysis",
+      "prompt": "Act as a healthcare data scientist. Analyze patient data to identify patterns and potential treatment improvements."
+    },
+    {
+      "id": "financial-time-series-forecasting",
+      "title": "Financial Time Series Forecasting",
+      "prompt": "Act as a financial analyst. Forecast future trends in [specific financial market or dataset] using time series analysis."
+    },
+    {
+      "id": "image-recognition-deep-learning",
+      "title": "Image Recognition with Deep Learning",
+      "prompt": "Act as a computer vision specialist. Develop a deep learning model to recognize [specific elements] in images."
+    },
+    {
+      "id": "customer-segmentation",
+      "title": "Customer Segmentation",
+      "prompt": "Act as a marketing analyst. Perform customer segmentation on [specific customer dataset] to tailor marketing strategies."
+    },
+    {
+      "id": "supply-chain-optimization",
+      "title": "Supply Chain Optimization Analysis",
+      "prompt": "Act as a logistics analyst. Analyze the supply chain data to identify optimization opportunities in [specific area]."
+    },
+    {
+      "id": "climate-change-analysis",
+      "title": "Climate Change Data Analysis",
+      "prompt": "Act as an environmental scientist. Investigate [specific climate dataset] to analyze the impacts of climate change."
+    },
+    {
+      "id": "sports-performance-analysis",
+      "title": "Sports Performance Analysis",
+      "prompt": "Act as a sports analyst. Analyze [specific sports data] to evaluate player performances and team strategies."
+    },
+    {
+      "id": "text-clustering-topic-modeling",
+      "title": "Text Clustering for Topic Modeling",
+      "prompt": "Act as an NLP researcher. Use text clustering techniques to identify prevalent topics in [large text corpus]."
+    },
+    {
+      "id": "recommender-system-development",
+      "title": "Recommender System Development",
+      "prompt": "Act as a data engineer. Build a recommender system for [specific application, e.g., movie recommendations] using collaborative filtering."
+    },
+    {
+      "id": "real-estate-price-prediction",
+      "title": "Real Estate Price Prediction",
+      "prompt": "Act as a real estate analyst. Predict housing prices using [specific real estate dataset] and various regression techniques."
+    },
+    {
+      "id": "network-analysis-social-media",
+      "title": "Network Analysis for Social Media Data",
+      "prompt": "Act as a network analyst. Conduct a network analysis on [specific social media network data] to understand user interactions and influence."
+    },
+    {
+      "id": "fraud-detection-analysis",
+      "title": "Fraud Detection Analysis",
+      "prompt": "Act as a financial crime analyst. Develop a model to detect fraudulent transactions in [specific financial dataset]."
+    }
+  ]
+},{
+  "id": "education",
+  "name": "Education",
+  "prompts": [
+    {
+      "id": "history-class-discussion",
+      "title": "History Class Discussion",
+      "prompt": "Act as a historian. Debate the impact of [a significant historical event] on modern society."
+    },
+    {
+      "id": "math-problem-solving",
+      "title": "Math Problem Solving",
+      "prompt": "Act as a mathematician. Solve a real-world problem using [specific mathematical concept or method]."
+    },
+    {
+      "id": "science-experiment-proposal",
+      "title": "Science Experiment Proposal",
+      "prompt": "Act as a scientist. Design an experiment to test [a specific scientific theory or principle]."
+    },
+    {
+      "id": "literature-analysis",
+      "title": "Literature Analysis",
+      "prompt": "Act as a literary critic. Analyze the character development in [a specific novel or play]."
+    },
+    {
+      "id": "geography-case-study",
+      "title": "Geography Case Study",
+      "prompt": "Act as a geographer. Examine the effects of [a geographical phenomenon] on a specific region."
+    },
+    {
+      "id": "philosophical-debate",
+      "title": "Philosophical Debate",
+      "prompt": "Act as a philosopher. Argue for or against [a specific philosophical argument or theory]."
+    },
+    {
+      "id": "language-learning-exercise",
+      "title": "Language Learning Exercise",
+      "prompt": "Act as a linguist. Demonstrate the use of [a specific language feature] in real-life communication."
+    },
+    {
+      "id": "art-critique-session",
+      "title": "Art Critique Session",
+      "prompt": "Act as an art critic. Evaluate the use of color and symbolism in [a specific artwork or art movement]."
+    },
+    {
+      "id": "economics-analysis",
+      "title": "Economics Analysis",
+      "prompt": "Act as an economist. Assess the impact of [a recent economic policy] on the national economy."
+    },
+    {
+      "id": "environmental-science-project",
+      "title": "Environmental Science Project",
+      "prompt": "Act as an environmentalist. Propose a project to address [a specific environmental issue]."
+    },
+    {
+      "id": "music-composition-challenge",
+      "title": "Music Composition Challenge",
+      "prompt": "Act as a composer. Create a piece of music that expresses [a specific emotion or theme]."
+    },
+    {
+      "id": "physical-education-strategy",
+      "title": "Physical Education Strategy",
+      "prompt": "Act as a sports coach. Develop a training plan for improving [a specific athletic skill]."
+    },
+    {
+      "id": "technology-society-debate",
+      "title": "Technology and Society Debate",
+      "prompt": "Act as a tech expert. Discuss how [a recent technological advancement] is influencing society."
+    },
+    {
+      "id": "health-nutrition-plan",
+      "title": "Health and Nutrition Plan",
+      "prompt": "Act as a nutritionist. Create a healthy meal plan for [a specific dietary requirement or goal]."
+    },
+    {
+      "id": "psychology-case-study",
+      "title": "Psychology Case Study Analysis",
+      "prompt": "Act as a psychologist. Analyze a case study focusing on [a specific psychological condition or theory]."
+    },
+    {
+      "id": "business-strategy-development",
+      "title": "Business Strategy Development",
+      "prompt": "Act as a business strategist. Devise a business plan for a start-up focusing on [a specific industry]."
+    },
+    {
+      "id": "civic-education-discussion",
+      "title": "Civic Education Discussion",
+      "prompt": "Act as a civic educator. Debate the importance of [a specific civic duty or responsibility]."
+    },
+    {
+      "id": "creative-writing-prompt",
+      "title": "Creative Writing Prompt",
+      "prompt": "Act as a novelist. Write a short story that begins with [a specific opening line or scenario]."
+    },
+    {
+      "id": "foreign-language-culture",
+      "title": "Foreign Language Cultural Exploration",
+      "prompt": "Act as a cultural ambassador. Explore a cultural aspect of [a country where the target language is spoken]."
+    },
+    {
+      "id": "stem-innovation-challenge",
+      "title": "STEM Innovation Challenge",
+      "prompt": "Act as an engineer. Design a solution to [a specific problem] using STEM principles."
+    }
+  ]
+},{
+  "id": "facebook-ad-copy",
+  "name": "Facebook Ad Copy",
+  "prompts": [
+    {
+      "id": "new-product-launch",
+      "title": "New Product Launch",
+      "prompt": "Act as a marketing specialist. Introduce a new product with a captivating headline and a compelling call-to-action that highlights its unique features."
+    },
+    {
+      "id": "flash-sale-announcement",
+      "title": "Flash Sale Announcement",
+      "prompt": "Act as a retail business owner. Create urgency with an ad for a limited-time flash sale, emphasizing the discount and time sensitivity."
+    },
+    {
+      "id": "event-promotion",
+      "title": "Event Promotion",
+      "prompt": "Act as an event organizer. Promote an upcoming event with engaging copy that highlights the key attractions and details."
+    },
+    {
+      "id": "service-offering",
+      "title": "Service Offering",
+      "prompt": "Act as a service provider. Describe your services in a way that solves a common problem or fulfills a need for your target audience."
+    },
+    {
+      "id": "customer-testimonial-ad",
+      "title": "Customer Testimonial Ad",
+      "prompt": "Act as a brand manager. Feature a customer testimonial in your ad copy to build trust and authenticity."
+    },
+    {
+      "id": "seasonal-campaign",
+      "title": "Seasonal Campaign",
+      "prompt": "Act as a seasonal marketer. Craft an ad that ties your product or service into a current season or holiday."
+    },
+    {
+      "id": "brand-storytelling",
+      "title": "Brand Storytelling",
+      "prompt": "Act as a storyteller. Convey your brand's story or mission in a way that resonates emotionally with your audience."
+    },
+    {
+      "id": "contest-or-giveaway",
+      "title": "Contest or Giveaway",
+      "prompt": "Act as a community manager. Announce a contest or giveaway, detailing how to enter and what participants can win."
+    },
+    {
+      "id": "lifestyle-focused-ad",
+      "title": "Lifestyle-Focused Ad",
+      "prompt": "Act as a lifestyle influencer. Showcase how your product fits into a desirable lifestyle or aspirational context."
+    },
+    {
+      "id": "problem-solution-format",
+      "title": "Problem-Solution Format",
+      "prompt": "Act as a problem solver. Present a common problem and how your product or service provides the perfect solution."
+    },
+    {
+      "id": "exclusive-membership-offer",
+      "title": "Exclusive Membership Offer",
+      "prompt": "Act as a membership coordinator. Promote an exclusive membership or loyalty program, emphasizing its benefits."
+    },
+    {
+      "id": "how-to-use-product",
+      "title": "How-To Use Product",
+      "prompt": "Act as an educator. Create an ad that explains how to use your product to achieve a specific result or benefit."
+    },
+    {
+      "id": "product-comparison",
+      "title": "Product Comparison",
+      "prompt": "Act as a market analyst. Compare your product to competitors, highlighting what sets it apart."
+    },
+    {
+      "id": "behind-the-scenes-peek",
+      "title": "Behind-The-Scenes Peek",
+      "prompt": "Act as an insider. Give a behind-the-scenes look at your business or product creation process."
+    },
+    {
+      "id": "user-generated-content-ad",
+      "title": "User-Generated Content Ad",
+      "prompt": "Act as a curator. Use user-generated content in your ad to show real-life application and satisfaction."
+    },
+    {
+      "id": "limited-edition-product",
+      "title": "Limited Edition Product",
+      "prompt": "Act as a product manager. Promote a limited edition product, focusing on its exclusivity and unique features."
+    },
+    {
+      "id": "charity-or-social-cause",
+      "title": "Charity or Social Cause",
+      "prompt": "Act as a social advocate. Align your product with a charity or social cause, explaining how each purchase makes an impact."
+    },
+    {
+      "id": "re-engagement-campaign",
+      "title": "Re-engagement Campaign",
+      "prompt": "Act as a re-engagement strategist. Target previous customers with a special offer to reignite their interest."
+    },
+    {
+      "id": "subscription-service-ad",
+      "title": "Subscription Service Ad",
+      "prompt": "Act as a subscription service provider. Highlight the convenience and value of your subscription service."
+    },
+    {
+      "id": "interactive-ad",
+      "title": "Interactive Ad (Polls/Questions)",
+      "prompt": "Act as an engagement expert. Create an interactive ad using polls or questions to encourage engagement and feedback."
+    }
+  ]
+},{
+  "id": "fitness",
+  "name": "Fitness",
+  "prompts": [
+    {
+      "id": "personal-training-session-plan",
+      "title": "Personal Training Session Plan",
+      "prompt": "Act as a personal trainer. Design a comprehensive workout session for a client with [specific fitness goals]."
+    },
+    {
+      "id": "healthy-meal-planning",
+      "title": "Healthy Meal Planning",
+      "prompt": "Act as a nutritionist. Create a one-week healthy meal plan for an individual focusing on [specific dietary needs or goals]."
+    },
+    {
+      "id": "fitness-challenge-creation",
+      "title": "Fitness Challenge Creation",
+      "prompt": "Act as a fitness coach. Develop a 30-day fitness challenge for [a specific goal, like weight loss or strength building]."
+    },
+    {
+      "id": "yoga-routine-for-beginners",
+      "title": "Yoga Routine for Beginners",
+      "prompt": "Act as a yoga instructor. Outline a beginner-friendly yoga routine that focuses on [flexibility, strength, or relaxation]."
+    },
+    {
+      "id": "hiit-workout",
+      "title": "High-Intensity Interval Training (HIIT) Workout",
+      "prompt": "Act as a HIIT specialist. Create a high-intensity interval training session for advanced fitness enthusiasts."
+    },
+    {
+      "id": "mindfulness-and-exercise",
+      "title": "Mindfulness and Exercise",
+      "prompt": "Act as a wellness coach. Integrate mindfulness practices into a fitness routine for holistic wellness."
+    },
+    {
+      "id": "strength-training-for-athletes",
+      "title": "Strength Training for Athletes",
+      "prompt": "Act as a sports performance coach. Develop a strength training program for athletes in [a specific sport]."
+    },
+    {
+      "id": "running-plan-for-marathon",
+      "title": "Running Plan for a Marathon",
+      "prompt": "Act as a running coach. Design a training plan for someone preparing for a half or full marathon."
+    },
+    {
+      "id": "fitness-tips-for-busy-professionals",
+      "title": "Fitness Tips for Busy Professionals",
+      "prompt": "Act as a lifestyle coach. Provide practical fitness tips for busy professionals with limited time."
+    },
+    {
+      "id": "bodyweight-workout-routine",
+      "title": "Bodyweight Workout Routine",
+      "prompt": "Act as a fitness instructor. Create a bodyweight workout routine that can be done at home without any equipment."
+    },
+    {
+      "id": "cycling-training-program",
+      "title": "Cycling Training Program",
+      "prompt": "Act as a cycling coach. Plan a cycling training regimen for improving endurance and speed."
+    },
+    {
+      "id": "postnatal-fitness-plan",
+      "title": "Postnatal Fitness Plan",
+      "prompt": "Act as a postnatal fitness expert. Outline a safe and effective workout plan for new mothers."
+    },
+    {
+      "id": "senior-fitness-routine",
+      "title": "Senior Fitness Routine",
+      "prompt": "Act as a senior fitness specialist. Develop a low-impact exercise routine suitable for older adults."
+    },
+    {
+      "id": "nutrition-guide-for-muscle-gain",
+      "title": "Nutrition Guide for Muscle Gain",
+      "prompt": "Act as a sports nutritionist. Write a nutrition guide focused on muscle gain and recovery."
+    },
+    {
+      "id": "group-fitness-class-concept",
+      "title": "Group Fitness Class Concept",
+      "prompt": "Act as a group fitness instructor. Design an engaging and fun group fitness class concept for people of all fitness levels."
+    },
+    {
+      "id": "swimming-workout-for-beginners",
+      "title": "Swimming Workout for Beginners",
+      "prompt": "Act as a swim coach. Outline a beginner-friendly swimming workout focusing on technique and endurance."
+    },
+    {
+      "id": "functional-fitness-circuit",
+      "title": "Functional Fitness Circuit",
+      "prompt": "Act as a fitness expert. Develop a functional fitness circuit that improves everyday movement skills."
+    },
+    {
+      "id": "dance-fitness-choreography",
+      "title": "Dance Fitness Choreography",
+      "prompt": "Act as a dance instructor. Choreograph a dance fitness routine that is both fun and effective for cardio."
+    },
+    {
+      "id": "outdoor-bootcamp-workout-plan",
+      "title": "Outdoor Bootcamp Workout Plan",
+      "prompt": "Act as a bootcamp trainer. Create an outdoor bootcamp workout that uses natural elements for exercise."
+    },
+    {
+      "id": "recovery-and-stretching-guide",
+      "title": "Recovery and Stretching Guide",
+      "prompt": "Act as a physiotherapist. Provide a detailed guide on recovery techniques and stretching exercises post-workout."
+    }
+  ]
 }
-
   ]
 }

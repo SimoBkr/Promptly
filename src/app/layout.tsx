@@ -20,7 +20,7 @@ export default function RootLayout({
     <html lang="en" className={`${inter.variable} ${plusJakartaSans.variable}`}>
       <body>
         <Header />
-        <div className="container mx-auto px-4">
+        <div className="container mx-auto px-4 py-8">
           {children}
         </div>
       </body>
