@@ -362,6 +362,112 @@
       "prompt": "Act as a market researcher. Encourage subscribers to participate in a survey, explaining how their feedback will be used to improve your products/services."
     }
   ]
+},{
+  "id": "web-development",
+  "name": "Web Development",
+  "prompts": [
+    {
+      "id": "responsive-ecommerce-site",
+      "title": "Building a Responsive E-commerce Website",
+      "prompt": "Act as a web developer. Design and implement a responsive e-commerce website for a small business."
+    },
+    {
+      "id": "interactive-portfolio-site",
+      "title": "Creating an Interactive Portfolio Site",
+      "prompt": "Act as a front-end developer. Develop an interactive and visually appealing online portfolio to showcase digital work."
+    },
+    {
+      "id": "blogging-platform-development",
+      "title": "Developing a User-Friendly Blogging Platform",
+      "prompt": "Act as a software engineer. Create a user-friendly blogging platform with intuitive content management features."
+    },
+    {
+      "id": "web-app-security-features",
+      "title": "Implementing Advanced Security Features for a Web Application",
+      "prompt": "Act as a cybersecurity expert. Enhance a web application with advanced security features to protect user data."
+    },
+    {
+      "id": "custom-cms-development",
+      "title": "Building a Custom Content Management System (CMS)",
+      "prompt": "Act as a full-stack developer. Develop a custom CMS tailored to specific client needs."
+    },
+    {
+      "id": "educational-web-app-children",
+      "title": "Creating an Educational Web App for Children",
+      "prompt": "Act as a web app developer. Design an educational web app for children, focusing on interactive learning."
+    },
+    {
+      "id": "real-time-sports-score-site",
+      "title": "Developing a Real-Time Sports Score Website",
+      "prompt": "Act as a sports web developer. Create a website that provides real-time scores and updates for various sports events."
+    },
+    {
+      "id": "website-accessibility-enhancement",
+      "title": "Enhancing Website Accessibility",
+      "prompt": "Act as an accessibility specialist. Improve a website's accessibility for users with disabilities, ensuring compliance with WCAG standards."
+    },
+    {
+      "id": "ai-chatbot-integration",
+      "title": "Integrating AI Chatbots into Customer Service",
+      "prompt": "Act as an AI developer. Implement AI chatbots on a business website to improve customer service interactions."
+    },
+    {
+      "id": "nonprofit-donation-platform",
+      "title": "Building a Responsive Non-Profit Donation Platform",
+      "prompt": "Act as a web developer for non-profits. Create a responsive and secure online donation platform."
+    },
+    {
+      "id": "event-booking-system",
+      "title": "Creating a Dynamic Event Booking System",
+      "prompt": "Act as a back-end developer. Develop a dynamic event booking system for a theater or concert venue."
+    },
+    {
+      "id": "interactive-travel-guide",
+      "title": "Designing an Interactive Travel Guide Website",
+      "prompt": "Act as a travel web developer. Build an interactive travel guide website with personalized recommendations."
+    },
+    {
+      "id": "ecommerce-analytics-integration",
+      "title": "Implementing E-commerce Analytics Tools",
+      "prompt": "Act as a data analyst. Integrate advanced e-commerce analytics tools into an online store."
+    },
+    {
+      "id": "fitness-tracker-web-app",
+      "title": "Developing a Fitness Tracker Web Application",
+      "prompt": "Act as a health tech developer. Create a fitness tracker web application with personalized workout and nutrition plans."
+    },
+    {
+      "id": "multi-language-education-site",
+      "title": "Building a Multi-language Educational Website",
+      "prompt": "Act as a multilingual web developer. Develop an educational website that supports multiple languages."
+    },
+    {
+      "id": "professional-networking-platform",
+      "title": "Creating a Professional Networking Platform",
+      "prompt": "Act as a social media developer. Build a professional networking platform with robust connectivity features."
+    },
+    {
+      "id": "mobile-first-news-site",
+      "title": "Developing a Mobile-First News Aggregator Site",
+      "prompt": "Act as a news web developer. Create a mobile-first news aggregator site with custom news feed options."
+    },
+    {
+      "id": "online-art-gallery",
+      "title": "Building an Online Art Gallery with Virtual Tours",
+      "prompt": "Act as a cultural web developer. Develop an online art gallery website featuring virtual tours."
+    },
+    {
+      "id": "cloud-storage-integration",
+      "title": "Implementing Cloud Storage Integration for Web Apps",
+      "prompt": "Act as a cloud solutions architect. Integrate cloud storage solutions into web applications for enhanced data management."
+    },
+    {
+      "id": "web-based-project-tool",
+      "title": "Creating a Web-Based Project Management Tool",
+      "prompt": "Act as a project management software developer. Build a web-based tool to facilitate project planning, tracking, and collaboration."
+    }
+  ]
 }
+
   ]
 }

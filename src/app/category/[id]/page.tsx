@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect } from 'react';
+import { useParams } from 'next/navigation';
 
 interface Prompt {
   id: string;
@@ -14,7 +15,9 @@ interface Category {
   prompts: Prompt[];
 }
 
-export default function CategoryPage({ params }: { params: { id: string } }) {
+export default function CategoryPage() {
+  const params = useParams();
+  
   const [category, setCategory] = useState<Category | null>(null);
   const [loading, setLoading] = useState(true);
   const [copiedPromptId, setCopiedPromptId] = useState<string | null>(null);
@@ -55,7 +58,7 @@ export default function CategoryPage({ params }: { params: { id: string } }) {
       <h1 className="text-4xl font-bold text-center mb-4">{category.name}</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {category.prompts.map((prompt) => (
-          <div key={prompt.id} className="card p-6 flex flex-col">
+          <div key={prompt.id} className="bg-white rounded-lg shadow-md p-6 flex flex-col">
             <h2 className="text-2xl font-bold mb-2">{prompt.title}</h2>
             <p className="text-gray-700 mb-4 flex-grow">{prompt.prompt}</p>
             <button
