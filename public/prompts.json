@@ -120,6 +120,111 @@
       "prompt": "Act as a political commentator discussing current events. Analyze a recent political event and its implications on national or global politics."
     }
   ]
+},{
+  "id": "resume-writing",
+  "name": "Resume Writing",
+  "prompts": [
+    {
+      "id": "recent-grad-summary",
+      "title": "Professional Summary for a Recent Graduate",
+      "prompt": "Act as a recent graduate. Write a compelling professional summary highlighting your academic achievements and relevant skills."
+    },
+    {
+      "id": "career-objective-mid-level",
+      "title": "Career Objective for a Mid-Level Professional",
+      "prompt": "Act as a mid-level professional seeking advancement. Craft a career objective that reflects your experience and future goals."
+    },
+    {
+      "id": "sales-achievements",
+      "title": "Highlighting Key Achievements in Sales",
+      "prompt": "Act as a sales manager. List your key achievements, emphasizing sales targets met or exceeded."
+    },
+    {
+      "id": "it-skills",
+      "title": "Showcasing Technical Skills for IT Professionals",
+      "prompt": "Act as an IT professional. Detail your technical skills, including programming languages and software proficiency."
+    },
+    {
+      "id": "leadership-experience",
+      "title": "Describing Leadership Experience",
+      "prompt": "Act as a team leader. Describe your leadership experience, focusing on team management and project successes."
+    },
+    {
+      "id": "freelancer-experience",
+      "title": "Experience Section for a Freelancer",
+      "prompt": "Act as a freelancer. Structure your experience section to effectively showcase diverse freelance projects."
+    },
+    {
+      "id": "nontraditional-education",
+      "title": "Education Section for Non-Traditional Students",
+      "prompt": "Act as a non-traditional student. Highlight your educational journey, focusing on how your unique path has prepared you for your career."
+    },
+    {
+      "id": "volunteer-experience",
+      "title": "Volunteer Experience and Its Relevance",
+      "prompt": "Act as a community volunteer. Integrate your volunteer experiences, relating them to your career objectives."
+    },
+    {
+      "id": "marketing-skills",
+      "title": "Skills Section for a Marketing Professional",
+      "prompt": "Act as a marketing expert. Enumerate skills relevant to modern marketing, including digital marketing competencies."
+    },
+    {
+      "id": "international-experience",
+      "title": "Crafting a Resume with International Experience",
+      "prompt": "Act as a professional with international experience. Present this experience to demonstrate global competence and adaptability."
+    },
+    {
+      "id": "career-change-resume",
+      "title": "Tailoring a Resume for a Career Change",
+      "prompt": "Act as an individual changing careers. Modify your resume to highlight transferable skills and relevant experiences."
+    },
+    {
+      "id": "internship-description",
+      "title": "Describing Internship Experiences",
+      "prompt": "Act as a recent intern. Write about your internship experiences in a way that demonstrates learned skills and contributions."
+    },
+    {
+      "id": "certifications-list",
+      "title": "Listing Professional Certifications",
+      "prompt": "Act as a certified professional. List your certifications and explain their relevance to your targeted job."
+    },
+    {
+      "id": "freelance-work-integration",
+      "title": "Incorporating Freelance Work into Your Resume",
+      "prompt": "Act as a part-time freelancer. Seamlessly incorporate freelance work to showcase additional skills and experiences."
+    },
+    {
+      "id": "engineering-projects",
+      "title": "Highlighting Technical Projects for Engineers",
+      "prompt": "Act as an engineer. Detail technical projects, emphasizing your role and the project outcomes."
+    },
+    {
+      "id": "remote-resume",
+      "title": "Writing a Resume for Remote Work Positions",
+      "prompt": "Act as a remote job seeker. Tailor your resume to highlight skills and experiences relevant to remote work."
+    },
+    {
+      "id": "creative-resume-design",
+      "title": "Showcasing Creativity in Design Fields",
+      "prompt": "Act as a graphic designer. Present your creative skills and design projects effectively."
+    },
+    {
+      "id": "problem-solving-skills",
+      "title": "Describing Problem-Solving Skills",
+      "prompt": "Act as a problem-solver. Illustrate how you've successfully solved challenging problems in previous roles."
+    },
+    {
+      "id": "entry-level-resume",
+      "title": "Writing an Entry-Level Resume with Limited Experience",
+      "prompt": "Act as a job seeker with limited experience. Focus on academic, volunteer, and extracurricular activities relevant to the job."
+    },
+    {
+      "id": "performance-review-feedback",
+      "title": "Incorporating Feedback from Performance Reviews",
+      "prompt": "Act as a professional seeking growth. Integrate positive feedback from performance reviews to highlight your strengths."
+    }
+  ]
 },
     {
   "id": "business-plans",
@@ -1727,6 +1832,112 @@
       "prompt": "Act as a sustainable investment advisor. Develop an investment strategy focused on environmental, social, and governance (ESG) criteria."
     }
   ]
+},{
+  "id": "general-copywriting",
+  "name": "General Copywriting",
+  "prompts": [
+    {
+      "id": "brand-tagline-creation",
+      "title": "Brand Tagline Creation",
+      "prompt": "Act as a brand strategist. Develop a catchy and memorable tagline for [specific brand] that encapsulates its essence."
+    },
+    {
+      "id": "product-description-writing",
+      "title": "Product Description Writing",
+      "prompt": "Act as a copywriter. Craft a compelling and persuasive product description for [new product], highlighting its unique features."
+    },
+    {
+      "id": "email-marketing-campaign",
+      "title": "Email Marketing Campaign",
+      "prompt": "Act as an email marketer. Write an engaging email subject line and body copy for a campaign promoting [specific service or event]."
+    },
+    {
+      "id": "social-media-ad-copy",
+      "title": "Social Media Ad Copy",
+      "prompt": "Act as a social media specialist. Create attention-grabbing ad copy for a Facebook campaign targeting [specific audience]."
+    },
+    {
+      "id": "seo-article-writing",
+      "title": "SEO Article Writing",
+      "prompt": "Act as an SEO content writer. Compose an informative and keyword-optimized article on [specific topic]."
+    },
+    {
+      "id": "press-release-company-event",
+      "title": "Press Release for a Company Event",
+      "prompt": "Act as a PR manager. Write a press release announcing [a newsworthy company event or product launch]."
+    },
+    {
+      "id": "brochure-content-travel-agency",
+      "title": "Brochure Content for a Travel Agency",
+      "prompt": "Act as a travel writer. Create enticing brochure content for a travel agency offering [specific type of travel package]."
+    },
+    {
+      "id": "billboard-advertising-copy",
+      "title": "Billboard Advertising Copy",
+      "prompt": "Act as an advertising copywriter. Devise a concise and impactful billboard ad for [specific campaign or product]."
+    },
+    {
+      "id": "radio-commercial-script",
+      "title": "Script for a Radio Commercial",
+      "prompt": "Act as a scriptwriter. Write a creative and engaging radio commercial script for [specific brand or service]."
+    },
+    {
+      "id": "website-about-us-page",
+      "title": "Website About Us Page",
+      "prompt": "Act as a web content writer. Compose an engaging 'About Us' page for [a company's website], telling their unique story."
+    },
+    {
+      "id": "newsletter-non-profit",
+      "title": "Newsletter Writing for Non-Profit",
+      "prompt": "Act as a communications specialist. Create a newsletter for a non-profit organization, updating supporters about [recent activities or achievements]."
+    },
+    {
+      "id": "catalogue-fashion-brand",
+      "title": "Catalogue Descriptions for a Fashion Brand",
+      "prompt": "Act as a fashion copywriter. Write appealing product descriptions for a new fashion catalogue featuring [latest collection]."
+    },
+    {
+      "id": "video-script-product-demo",
+      "title": "Video Script for Product Demo",
+      "prompt": "Act as a scriptwriter. Develop a script for a product demonstration video for [specific product]."
+    },
+    {
+      "id": "blog-post-fitness-brand",
+      "title": "Blog Post for a Fitness Brand",
+      "prompt": "Act as a fitness expert. Write an informative blog post for a fitness brand on [specific health and fitness topic]."
+    },
+    {
+      "id": "direct-mail-real-estate",
+      "title": "Direct Mail Copy for Real Estate",
+      "prompt": "Act as a real estate marketer. Craft a compelling direct mail piece for a real estate agency targeting [specific customer segment]."
+    },
+    {
+      "id": "mobile-app-launch-copy",
+      "title": "Ad Copy for a Mobile App Launch",
+      "prompt": "Act as an app marketer. Write ad copy for the launch of a new mobile app, highlighting its [key features and benefits]."
+    },
+    {
+      "id": "corporate-sales-presentation",
+      "title": "Corporate Sales Presentation",
+      "prompt": "Act as a business development manager. Prepare persuasive text for a sales presentation for [a corporate service or product]."
+    },
+    {
+      "id": "charity-campaign-copy",
+      "title": "Copywriting for a Charity Campaign",
+      "prompt": "Act as a non-profit campaign manager. Develop emotive and persuasive copy for a charity campaign focused on [specific cause]."
+    },
+    {
+      "id": "slogan-environmental-campaign",
+      "title": "Slogan for an Environmental Campaign",
+      "prompt": "Act as an environmental activist. Create a catchy and impactful slogan for an environmental awareness campaign."
+    },
+    {
+      "id": "landing-page-content",
+      "title": "Landing Page Content",
+      "prompt": "Act as a digital marketer. Develop persuasive content for a landing page designed to increase conversions for [specific product/service]."
+    }
+  ]
 }
+
   ]
 }
