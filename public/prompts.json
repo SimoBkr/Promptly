@@ -1622,6 +1622,111 @@
       "prompt": "Act as a physiotherapist. Provide a detailed guide on recovery techniques and stretching exercises post-workout."
     }
   ]
+},{
+  "id": "finance",
+  "name": "Finance",
+  "prompts": [
+    {
+      "id": "personal-budget-planning",
+      "title": "Personal Budget Planning",
+      "prompt": "Act as a financial advisor. Create a monthly budget plan for an individual with [specific financial goals]."
+    },
+    {
+      "id": "investment-strategy-formulation",
+      "title": "Investment Strategy Formulation",
+      "prompt": "Act as an investment manager. Develop an investment strategy for a client interested in [a specific type of investment]."
+    },
+    {
+      "id": "market-analysis-report",
+      "title": "Market Analysis Report",
+      "prompt": "Act as a market analyst. Analyze current market trends and their potential impact on [a specific sector or investment]."
+    },
+    {
+      "id": "retirement-savings-plan",
+      "title": "Retirement Savings Plan",
+      "prompt": "Act as a retirement planner. Design a retirement savings plan for someone starting at age [specific age] with [specific retirement goals]."
+    },
+    {
+      "id": "debt-reduction-strategy",
+      "title": "Debt Reduction Strategy",
+      "prompt": "Act as a debt counselor. Propose a strategy for reducing personal debt effectively for [a specific debt scenario]."
+    },
+    {
+      "id": "business-financial-health-assessment",
+      "title": "Business Financial Health Assessment",
+      "prompt": "Act as a financial controller. Assess and report on the financial health of a [specific type of business]."
+    },
+    {
+      "id": "financial-risk-management-plan",
+      "title": "Financial Risk Management Plan",
+      "prompt": "Act as a risk manager. Develop a financial risk management plan for a company facing [specific financial risks]."
+    },
+    {
+      "id": "tax-planning-for-individuals",
+      "title": "Tax Planning for Individuals",
+      "prompt": "Act as a tax advisor. Offer tax planning advice for individuals with [specific income range or financial circumstances]."
+    },
+    {
+      "id": "corporate-budget-proposal",
+      "title": "Corporate Budget Proposal",
+      "prompt": "Act as a CFO. Prepare a corporate budget that aligns with the strategic goals of [a specific type of company]."
+    },
+    {
+      "id": "economic-impact-analysis",
+      "title": "Economic Impact Analysis",
+      "prompt": "Act as an economist. Analyze the potential economic impact of [a specific policy change or event]."
+    },
+    {
+      "id": "financial-literacy-workshop-outline",
+      "title": "Financial Literacy Workshop Outline",
+      "prompt": "Act as an educator. Outline a workshop aimed at improving financial literacy among [specific audience]."
+    },
+    {
+      "id": "loan-options-comparison",
+      "title": "Loan Options Comparison",
+      "prompt": "Act as a loan officer. Compare different loan options for a client purchasing [a specific high-value item, like a home or car]."
+    },
+    {
+      "id": "startup-funding-pitch",
+      "title": "Startup Funding Pitch",
+      "prompt": "Act as an entrepreneur. Prepare a pitch for potential investors for a startup in [a specific industry]."
+    },
+    {
+      "id": "insurance-policy-evaluation",
+      "title": "Insurance Policy Evaluation",
+      "prompt": "Act as an insurance broker. Evaluate different insurance policies for a client with [specific insurance needs]."
+    },
+    {
+      "id": "foreign-exchange-market-analysis",
+      "title": "Foreign Exchange Market Analysis",
+      "prompt": "Act as a forex analyst. Analyze the foreign exchange market and predict potential impacts on [specific currency pairs]."
+    },
+    {
+      "id": "real-estate-investment-plan",
+      "title": "Real Estate Investment Plan",
+      "prompt": "Act as a real estate investor. Create a plan for investing in real estate that aims at [specific investment goals]."
+    },
+    {
+      "id": "financial-forecast-new-product-launch",
+      "title": "Financial Forecast for a New Product Launch",
+      "prompt": "Act as a product manager. Forecast the financial performance of a new product in [a specific market]."
+    },
+    {
+      "id": "credit-score-improvement-plan",
+      "title": "Credit Score Improvement Plan",
+      "prompt": "Act as a credit advisor. Develop a plan for improving an individual's credit score over [a specific time period]."
+    },
+    {
+      "id": "mergers-and-acquisitions-analysis",
+      "title": "Mergers and Acquisitions Analysis",
+      "prompt": "Act as an M&A consultant. Analyze the potential benefits and risks of a merger or acquisition for [a specific company]."
+    },
+    {
+      "id": "sustainable-investing-strategy",
+      "title": "Sustainable Investing Strategy",
+      "prompt": "Act as a sustainable investment advisor. Develop an investment strategy focused on environmental, social, and governance (ESG) criteria."
+    }
+  ]
 }
   ]
 }
