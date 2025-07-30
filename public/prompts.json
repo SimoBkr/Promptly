@@ -1517,10 +1517,36 @@
       "prompt": "Act as an engineer. Design a solution to [a specific problem] using STEM principles."
     }
   ]
-},{
+},
+{
   "id": "facebook-ad-copy",
   "name": "Facebook Ad Copy",
   "prompts": [
+    {
+      "id": "ad-creative-optimization",
+      "title": "Ad Creative Optimization",
+      "prompt": "Provide creative ideas for designing eye-catching Facebook ads for my [Product/Service], including tips for visuals, ad copy, and call-to-action buttons."
+    },
+    {
+      "id": "target-audience-refinement",
+      "title": "Target Audience Refinement",
+      "prompt": "Suggest methods to refine my target audience for Facebook ads, focusing on demographics, interests, and behaviors to maximize ad effectiveness."
+    },
+    {
+      "id": "ab-testing-plan",
+      "title": "A/B Testing Plan",
+      "prompt": "Develop an A/B testing plan for my Facebook ad campaigns to identify the best performing ad variations, including different headlines, images, and ad copy."
+    },
+    {
+      "id": "retargeting-strategy",
+      "title": "Retargeting Strategy",
+      "prompt": "Create a retargeting strategy for my Facebook ads to reach potential customers who have interacted with my website or previous ads."
+    },
+    {
+      "id": "ad-budget-management",
+      "title": "Ad Budget Management",
+      "prompt": "Suggest a budget management plan for my Facebook ads, including how to allocate funds across different campaigns and strategies for scaling successful ads."
+    },
     {
       "id": "new-product-launch",
       "title": "New Product Launch",
