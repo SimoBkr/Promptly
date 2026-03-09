@@ -1963,6 +1963,52 @@
       "prompt": "Act as a digital marketer. Develop persuasive content for a landing page designed to increase conversions for [specific product/service]."
     }
   ]
+},
+  {
+  "id": "java-developers",
+  "name": "Java Developers",
+  "prompts": [
+    {
+      "id": "java-understand-codebase",
+      "title": "Understanding Large Java Codebases",
+      "prompt": "Act as a senior Java developer. Explain the architecture, package structure, and execution flow of the following Java project in simple terms. Highlight how controllers, services, and repositories interact:\n<PASTE CODE OR PROJECT STRUCTURE HERE>"
+    },
+    {
+      "id": "java-clean-code",
+      "title": "Writing Clean, Professional Java Code",
+      "prompt": "Act as a senior Java architect. Review the following code and refactor it to follow SOLID principles and clean code best practices. Explain what was improved and why:\n<PASTE CODE HERE>"
+    },
+    {
+      "id": "java-debug-stack-trace",
+      "title": "Debugging Java Errors and Stack Traces",
+      "prompt": "Act as an experienced Java debugger. Analyze the following stack trace, identify the root cause, and suggest a clear fix with reasoning:\n<PASTE STACK TRACE HERE>"
+    },
+    {
+      "id": "java-8-features",
+      "title": "Java 8+ Features (Streams, Lambdas, Optional)",
+      "prompt": "Act as a Java 8 expert. Refactor the following code using Streams, Lambdas, Optional or others where appropriate. Compare the refactored version with the original:\n<PASTE CODE HERE>"
+    },
+    {
+      "id": "java-concurrency",
+      "title": "Multithreading and Concurrency",
+      "prompt": "Act as a Java concurrency expert. Identify thread-safety issues in the following code and refactor it to be safe for concurrent execution:\n<PASTE CODE HERE>"
+    },
+    {
+      "id": "java-rest-api-design",
+      "title": "Designing REST APIs Correctly",
+      "prompt": "Act as a REST API design expert. Review the following Spring Boot REST controller and suggest improvements for HTTP methods, status codes, and request validation:\n<PASTE CONTROLLER CODE HERE>"
+    },
+    {
+      "id": "java-interview-prep",
+      "title": "Java Interview Preparation",
+      "prompt": "Act as a Java interviewer. Create a focused interview preparation plan for an entry-level Java developer, including core Java, Spring Boot, Microservices and basic system design topics."
+    },
+    {
+      "id": "java-system-design",
+      "title": "System Design for Java Developers",
+      "prompt": "Act as a system design expert. Explain how to design a simple scalable system step by step, assuming I am a beginner Java developer:\n<PASTE USE CASE HERE>"
+    }
+  ]
 }
 
   ]
